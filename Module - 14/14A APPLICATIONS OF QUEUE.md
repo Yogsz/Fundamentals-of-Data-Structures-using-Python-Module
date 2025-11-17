@@ -1,4 +1,4 @@
-# Exp.No:40  
+# Exp.No:14a  
 ## APPLICATIONS OF QUEUE
 
 ---
