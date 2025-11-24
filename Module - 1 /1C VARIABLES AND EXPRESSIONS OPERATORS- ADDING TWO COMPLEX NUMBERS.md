@@ -13,8 +13,8 @@ To write a Python program for adding two complex numbers, and get the user input
 
 ## PROGRAM
 ```python
-# Reg.No-212223060190
-#Name-Om Sharma M
+# Reg.No-212223060312
+#Name-YOGESH P
 #Write your code here
 
 a=eval(input())
