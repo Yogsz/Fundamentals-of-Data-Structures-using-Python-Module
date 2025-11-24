@@ -6,7 +6,7 @@
 ### AIM  
 To write a Python program to define the abstract base class named `Polygon` and also define the abstract method. This base class is inherited by various subclasses. Implement the abstract method in each subclass. Create objects of the subclasses and invoke the `sides()` method.
 
----
+--- 
 
 ### ALGORITHM
 
