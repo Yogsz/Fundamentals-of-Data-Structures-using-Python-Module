@@ -6,7 +6,7 @@
 ### AIM  
 To write a Python program to find sequences of Upper case letters joined with a underscore.
 
----
+--- 
 
 ### ALGORITHM
 
