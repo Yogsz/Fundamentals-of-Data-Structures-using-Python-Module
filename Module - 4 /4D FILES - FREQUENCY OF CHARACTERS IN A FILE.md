@@ -5,7 +5,7 @@
 
 ### AIM  
 To write a Python program that reads a file and counts the frequency of each character in it.
-
+ 
 ---
 
 ### ALGORITHM
