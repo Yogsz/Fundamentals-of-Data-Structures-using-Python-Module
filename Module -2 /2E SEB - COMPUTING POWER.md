@@ -17,7 +17,7 @@ To write a function which takes three arguments: a and b and c and returns the a
 5. Assign the defined function to the variable named f.
 6. (Demonstration) Call the variable f with three example numbers to execute the function.
 7. (Demonstration) Print the result returned by the function.
-8. Terminate the program.
+8. Terminate the program. 
 
 ---
 
