@@ -5,7 +5,7 @@
 
 ### AIM  
 To write a python program to perform addition and multiplication operation using class and if..elif statement
-
+ 
 note:
 class name should be calc, function name should be setvalues( to set a and b values) ,add and mul
 cases : 
