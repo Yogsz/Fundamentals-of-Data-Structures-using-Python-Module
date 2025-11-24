@@ -4,7 +4,7 @@
 ---
 
 ### AIM  
-To write a python function "convert" to accept a string and converts the uppercase character into lowercase character, lowercase character into uppercase  character and also replace the special characters with "bb".
+To write a python function "convert" to accept a string and converts the uppercase character into lowercase character, lowercase character into uppercase  character and also replace the special characters with "bb". 
 
 ---
 
