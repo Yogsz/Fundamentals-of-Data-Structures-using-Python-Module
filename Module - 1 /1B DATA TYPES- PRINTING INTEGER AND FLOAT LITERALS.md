@@ -7,7 +7,7 @@ To write a Python program to print the following integer and float literals: 10,
 1. Begin the program.  
 2. Initialize the integer literals `123`, `456`, and `789`.  
 3. Use the `print()` function to display the numbers `123`, `456`, and `789`.  
-4. Terminate the program.
+4. Terminate the program. 
 
 ## PROGRAM
 ```python
