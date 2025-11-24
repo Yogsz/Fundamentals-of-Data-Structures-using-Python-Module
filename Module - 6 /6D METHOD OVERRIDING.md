@@ -1,7 +1,7 @@
 # Exp.No:6d  
 ## Method Overriding
 
----
+--- 
 
 ### AIM  
 To write a Python program to create a Parent class `Bird` and inherit two child classes `Sparrow` and `Ostrich` from the `Bird` class with the same method `flight()`. Create an object for each class and call the methods of the class which will print the name of the bird that is flying.
