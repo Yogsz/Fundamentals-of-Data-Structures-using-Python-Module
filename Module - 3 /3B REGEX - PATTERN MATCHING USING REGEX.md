@@ -8,7 +8,7 @@ To write a Python program that matches a string containing an `'a'` followed by 
 
 ---
 
-### ALGORITHM
+### ALGORITHM 
 
 1. Begin the program.  
 2. Accept a string `str1` from the user.  
