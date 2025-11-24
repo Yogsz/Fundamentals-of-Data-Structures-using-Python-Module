@@ -21,7 +21,7 @@ To write a Python program to check the relation between two numbers — whether 
 
 ---
 
-### PROGRAM
+### PROGRAM 
 
 ```python
 absolute = lambda a : abs(a)
