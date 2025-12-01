@@ -21,17 +21,18 @@ To create a Python program for printing `n` natural numbers using a `for` loop.
 ### 🧾 Program
 
 ```python
-#Reg.NO-212223060312
-#Name-YOGESH P
-#Write your Code here
+# Reg.No-212223060312
+# Name- YOGESH P
 
-n=int(input())
-
-for i in range(1,n+1):
+a = int(input())
+print("Natural Numbers are:")
+i = 1
+while i <= a:
     print(i)
+    i += 1
 ```
 ### OUTPUT
-<img width="1648" height="656" alt="image" src="https://github.com/user-attachments/assets/cd662fd0-9611-40f4-ae64-bc95779e2b90" />
+![image](https://github.com/user-attachments/assets/02c7e4e8-a5f6-4683-831a-7a11ac7ea2bf)
 
 ### RESULT
-Therefore, the output is the example for a Python program for printing `n` natural numbers using a `for` loop.
+Thus the program to print n natural numbers using while loop has been implemented and executed successfully.
