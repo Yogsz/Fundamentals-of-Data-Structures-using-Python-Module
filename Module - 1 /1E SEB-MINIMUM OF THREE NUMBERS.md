@@ -1,4 +1,4 @@
-## Experiment No: 1e – SEB-Minimum of Three Numbers
+# Experiment No: 1e – SEB-Minimum of Three Numbers
 
 ## AIM  
 To write a Python program to find the minimum between three integer numbers using a conditional expression (Ternary operator).
@@ -16,9 +16,8 @@ To write a Python program to find the minimum between three integer numbers usin
 
 ## PROGRAM
 ```python
-# Reg.No-212223060312   
-# Name-YOGESH P
-# Write your code here
+# Reg.No-212223060312
+# Name- YOGESH P
 
 num1 = int(input())
 num2 = int(input())
@@ -30,7 +29,7 @@ print(f"The minimum of {num1}, {num2}, {num3} is {min_num}")
 ```
 
 ## OUTPUT
-<img width="1646" height="415" alt="image" src="https://github.com/user-attachments/assets/ed636755-8f78-4a25-bc80-fe8c0b7e304a" />
+![image](https://github.com/user-attachments/assets/c0e3126b-d20e-4672-aead-a280a7d508db)
 
 ## RESULT
-Therefore, the output is the example to find the minimum between three integer numbers using a conditional expression (Ternary operator).
+Thus, the Python program to find the minimum between three numbers using a conditional expression has been implemented and executed successfully.
