@@ -22,30 +22,20 @@ To write a Python program to check if a number is a Perfect number using the con
 
 ### PROGRAM
 ```
-#Reg.No-212223060312
-#Name:YOOGESH P
-#Add your Code Here
+# Reg.No-212223060312
+# Name- YOGESH P
+def result(a, b):
+    d = a % b
+    print(f"Modulo is {d}")
 
-def perfectNumber(n):
-    factor_sum = 0
-    if n <= 1:
-        print(f"{n} is not a perfect number.")
-        return
-    for i in range(1, n // 2 + 1):
-        if n % i == 0:
-            factor_sum += i
-    if factor_sum == n:
-        print(f"{n} is a perfect number.")
-    else:
-        print(f"{n} is not a perfect number.")
+a = int(input())
+b = int(input())
+result(a, b)
 
-a=int(input())
-perfectNumber(a)
+
 ```
 ### OUTPUT
-<img width="1643" height="599" alt="image" src="https://github.com/user-attachments/assets/aa341b01-4972-46e3-8b4b-6ab1abf939c9" />
-
-<img width="1640" height="605" alt="image" src="https://github.com/user-attachments/assets/c05fa798-1f82-4ecf-bcf1-43611f490eb1" />
+![image](https://github.com/user-attachments/assets/944b20cb-654e-49d5-8a95-203f9aeaa670)
 
 ### RESULT
-Therefore, the output is the example to check if a number is a Perfect number using the concept of functions.
+Thus the program to define a function that accepts two values and returns their modulo value has been implemented and executed successfully.
