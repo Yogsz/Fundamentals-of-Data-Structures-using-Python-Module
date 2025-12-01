@@ -15,7 +15,6 @@ To Write a Python program to check whether the given character is a vowel or not
 ```python
 # Reg.No-212223060312
 # Name-YOGESH P
-# Write your code here
 
 char = input("Enter a character: ")
 char_lower = char.lower()
@@ -27,9 +26,7 @@ else:
 ```
 
 ## OUTPUT
-<img width="1645" height="394" alt="image" src="https://github.com/user-attachments/assets/300c12db-3b3d-4f2c-aa85-39be09b11c51" />
-
-<img width="1646" height="409" alt="image" src="https://github.com/user-attachments/assets/f18ae087-b5f2-4401-8190-8c41e842c3af" />
+![image](https://github.com/user-attachments/assets/22ba0c2e-16f0-4397-9a34-ab55d041a708)
 
 ## RESULT
-Therefore, the output is the example for checking the string is vowel or not using conditional statement.
+Thus, the Python program for Printing User Type Based on Choice has been Implemented and executed successfully.
